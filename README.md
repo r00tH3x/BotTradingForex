@@ -41,6 +41,9 @@ Bot ini adalah **Telegram Bot** yang dirancang untuk membantu analisa dan ekseku
 3. Ganti token bot Telegram
    ```python
    BOT_TOKEN = "ISI_TOKEN_BOT_TELEGRAM_KAMU"
+   ALPHA_VANTAGE_KEY = "your_api_key"
+   FOREX_API_KEY = "your_api_key"
+   NEWS_API_KEY = "your_api_key"
    ```
 4. Jalankan bot
    ```bash
@@ -57,9 +60,6 @@ Bot ini adalah **Telegram Bot** yang dirancang untuk membantu analisa dan ekseku
 
 ## Struktur Kode
 - `app.py` : file utama
-- `signals.py`, `scanner.py`, `fibonacci.py` : logika analisis
-- `config.py` : konfigurasi dan kredensial
-- `utils.py` : fungsi pendukung
 
 ## Manajemen Risiko
 Gunakan bot ini hanya sebagai alat bantu analisis. Tidak menjamin profit. Risiko trading tetap ditanggung pengguna.
@@ -72,11 +72,11 @@ Gunakan bot ini hanya sebagai alat bantu analisis. Tidak menjamin profit. Risiko
 
 ## Lisensi
 MIT License  
-© 2025 [Nama Anda]
+© 2025 ibar
 
 ## Kontak
 - GitHub: https://github.com/r00tH3x/BotTradingForex
-- Telegram: @namaAnda
+- Instagram: @Ibar____
 
 ---
 Gunakan bot ini dengan bijak dan tetap disiplin dalam manajemen risiko.
