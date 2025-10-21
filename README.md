@@ -1,7 +1,7 @@
 # Bot Trading Forex Pro
 Versi: v2.0  
-Penulis / Developer: _(isi nama kamu)_  
-Tanggal: _(isi tanggal)_
+Penulis / Developer: _ibar_  
+Tanggal: _21/10/2025_
 
 ## Deskripsi
 Bot ini adalah **Telegram Bot** yang dirancang untuk membantu analisa dan eksekusi sinyal trading forex dengan fitur otomatisasi dan analisis teknikal.
