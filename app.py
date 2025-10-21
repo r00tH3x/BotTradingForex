@@ -23,12 +23,12 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Token Bot Telegram (ganti dengan token bot Anda)
-BOT_TOKEN = "8451123546:AAGH0nop2PgqqUCO2uaRdKfLAsm_jF4xTy0"
+BOT_TOKEN = "your_bot_token"
 
 # API Keys (ganti dengan API key Anda)
-ALPHA_VANTAGE_KEY = "W46DAPWY169RBHJB"
-FOREX_API_KEY = "OETD5Z9g"
-NEWS_API_KEY = "1764b23fae3b4e2c9e83a8569acca0d5"
+ALPHA_VANTAGE_KEY = "your_api_key"
+FOREX_API_KEY = "your_api_key"
+NEWS_API_KEY = "your_api_key"
 
 class TradingStyle(Enum):
     SCALPING = "scalping"
