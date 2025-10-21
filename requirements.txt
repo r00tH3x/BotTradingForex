@@ -1,0 +1,30 @@
+# ==============================
+# Requirements for BotTradingForex
+# ==============================
+
+# Telegram bot framework
+python-telegram-bot==20.8
+
+# Data handling & analysis
+pandas==2.2.2
+numpy==1.26.4
+
+# HTTP requests (untuk ambil data pasar, API kalender ekonomi, dll)
+requests==2.32.3
+
+# Date and time utilities
+python-dateutil==2.9.0.post0
+pytz==2024.1
+
+# Environment variable management
+python-dotenv==1.0.1
+
+# Logging & system utils
+loguru==0.7.2
+
+# Optional (jika bot memakai analisis teknikal tambahan)
+ta==0.10.2        # library technical analysis (SMA, RSI, MACD, dll)
+forex-python==1.8 # konversi nilai tukar & data forex dasar
+
+# Optional (jika ingin menjalankan bot di VPS/Server background)
+schedule==1.2.1   # untuk task terjadwal
